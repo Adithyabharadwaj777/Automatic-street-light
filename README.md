@@ -1,4 +1,3 @@
-# Automatic-street-light
 # Automatic Street Light Simulation (Multisim)
 
 This project demonstrates an **Automatic Street Light** system simulated using **NI Multisim**. The system is designed to switch ON a street light automatically when it gets dark and turn it OFF in the presence of daylight, optimizing energy usage.
